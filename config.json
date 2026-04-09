@@ -58,6 +58,34 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "FastAPI REST APIs",
+      "description": "Build CRUD endpoints with FastAPI.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-04-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "data-structures-in-python",
+      "title": "Data Structures in Python",
+      "description": "Practice lists, dictionaries, sets, and tuples.",
+      "path": "assignments/data-structures-in-python",
+      "dueDate": "2026-04-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
